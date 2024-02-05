@@ -944,7 +944,7 @@
   
   
   /*-----------------------------------*\
-    #SPECIAL DISH
+    #SPECIAL
   \*-----------------------------------*/
   
   .special-dish-content { padding-block: 70px; }
@@ -978,10 +978,12 @@
   
   
   /*-----------------------------------*\
-    #MENU
+    #Our Teams
   \*-----------------------------------*/
   
-  .menu .section-title { margin-block-end: 40px; }
+  .menu .section-title { 
+    margin-block-end: 40px; 
+  }
   
   .menu .grid-list { margin-block-end: 50px; }
   
